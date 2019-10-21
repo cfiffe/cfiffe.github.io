@@ -47,11 +47,15 @@ ul {
 
 li a {
   display: block;
-  color: #b1cbbb;
+  color: #587e76;
   text-align: center;
   padding: 16px;
   text-decoration: none;
   /* font-weight: 920; */
+}
+
+li a:hover {
+  background-color: #6b5b95;
 }
 
 }
