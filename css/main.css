@@ -1,16 +1,30 @@
 
 body {
+    /* background */
+    position: relative;
     background-color: #E767FE;
-color: #FFFFFF;
+    color: #FFFFFF;
+    padding: 2em;
+    /* font definition */
+    font-family: 'Georgia', serif;
 }
-    
-.underline {
-    text-decoration: underline
-} 
 
 div{
     background-color:#f0f8ff;
-}    
+    position: relative;
+    padding-left: 2em;
+}  
+
+h1, h2, h3, h4, p{
+    margin-block-start: 0;
+    margin-block-end: 0;
+    padding-bottom: 1em;
+    tex-align: center;
+}
+
+.underline {
+    text-decoration: underline
+} 
 
 .span {
     font-weight:bold;
