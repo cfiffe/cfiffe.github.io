@@ -45,5 +45,13 @@ ul {
     background-color: #d5e1df;
 }
 
+li a {
+  display: block;
+  color: #b1cbbb;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+  /* font-weight: 920; */
+}
 
 }
