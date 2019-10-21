@@ -42,6 +42,7 @@ h1, h2, h3, h4, p{
     color: #405d27;
     padding: 5em;
     tex-align: center;
+    font-family: 'Georgia', serif;
 }
 
 ul {
