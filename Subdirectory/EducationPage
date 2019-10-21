@@ -1,1 +1,21 @@
-
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Cheryl's Education</title>
+</head>
+<body>
+    <h1> Cheryl's Education Timeline</h1>
+    <h2> Smart Stars </h2>
+    <h3> From 2008 To 2010</h3>
+    <p> This was a very fun time, but I learned to read at there when I was 4 years old</p>
+    <img src="cfiffe.github.io/Images/logo-Coral-Way-K-8.pnglogo-big-transparent.png" alt="Smart Starts" height="696px" class="" style="border-radius: 50%;">
+    <h2> Coral Way K-8 Center</h2>
+    <h3> From 2010 To 2016</h3>
+    <p> This was a very happy time in my life, I had a wonderful teachers and frind at this school</p>
+    <img src="cfiffe.github.io/Images/logo-Coral-Way-K-8.pnglogo-Coral-Way-K-8.png" alt="Smart Starts" height="696px" class="" style="border-radius: 50%;">
+    <h2> Carver Middle School</h2>
+    <h3> From 2016 To 2019</h3>
+    <h2> Coral Gables Senior High</h2>
+    <h3> From 2019 To 2023</h3>
+</body>
+</html>
