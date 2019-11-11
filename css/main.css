@@ -79,13 +79,6 @@ li a:hover {
 }
 
 /* Animation */
-section {
-  position: relative;
-}
-
-section img {
-  position: absolute;
-}
 
 .top {
   animation-name: fade;
