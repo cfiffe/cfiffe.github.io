@@ -80,16 +80,21 @@ li a:hover {
 
 /* Animation */
 
-.box {
-  color: white;
-  font-family: 'Georgia', serif;
-  width:200px;                 /* Set the Width of box          */
-  height:50px;                 /* Set the Height of box         */
-  background:#424242;          /* Dark Grey Background color    */
-  transition:all 0.25s ease;   /* Transition settings           */
-  
-  display: flex;               /* Use Flexbox on P              */
-  align-items: center;         /* Center P                      */
-  justify-content: center;     /* Center P                      */
-  margin: 10px;                /* Apply a margin around our Box */
+h8 {
+    animation-duration: 8s;
+    animation-name: slidein;
+    animation-iteration-count: infinite;
+}
+
+@keyframes slidein {
+  0% {
+    margin-left: 0%;
+  }
+  50% {
+    margin-left: 300px;
+  }
+  100% {
+    margin-left: 0%;
+  }
+    
 }
