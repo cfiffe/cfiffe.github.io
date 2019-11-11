@@ -78,3 +78,24 @@ li a:hover {
   margin-right: auto;
   width: 50%;
 }
+
+/* animation */
+#cf {
+  position:relative;
+  height:500px;
+  width:353px;
+  margin:0 auto;
+}
+
+#cf img {
+  position:absolute;
+  left:0;
+  -webkit-transition: opacity 1s ease-in-out;
+  -moz-transition: opacity 1s ease-in-out;
+  -o-transition: opacity 1s ease-in-out;
+  transition: opacity 1s ease-in-out;
+}
+
+#cf img.top:hover {
+  opacity:0;
+}
