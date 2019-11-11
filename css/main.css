@@ -62,6 +62,7 @@ li {
   float: left;
   lis-style-type: none;
   font-size: 22px;
+  font-family: 'Georgia', serif;
 }
 
 li a {
