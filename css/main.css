@@ -58,6 +58,12 @@ ul {
     background-color: #d5e1df;
 }
 
+li {
+  float: left;
+  font-size: 22px;
+  font-family: cursive;
+}
+
 li a {
   display: block;
   color: #587e76;
