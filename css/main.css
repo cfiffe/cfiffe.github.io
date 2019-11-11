@@ -80,25 +80,16 @@ li a:hover {
 
 /* Animation */
 
-.top {
-  animation-name: fade;
-  animation-timing-function: ease-in-out;
-  animation-iteration-count: infinite;
-  animation-duration: 1s;
-  animation-direction: alternate;
-}
-
-@keyframes fade {
-  0% {
-    opacity: 1;
-  }
-  25% {
-    opacity: 1;
-  }
-  75% {
-    opacity: 0;
-  }
-  100% {
-    opacity: 0;
-  }
+.box {
+  color: white;
+  font-family: 'Georgia', serif;
+  width:200px;                 /* Set the Width of box          */
+  height:50px;                 /* Set the Height of box         */
+  background:#424242;          /* Dark Grey Background color    */
+  transition:all 0.25s ease;   /* Transition settings           */
+  
+  display: flex;               /* Use Flexbox on P              */
+  align-items: center;         /* Center P                      */
+  justify-content: center;     /* Center P                      */
+  margin: 10px;                /* Apply a margin around our Box */
 }
