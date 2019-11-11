@@ -56,10 +56,13 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: #d5e1df;
+    font-size: 22px;
+    font-family: 'Georgia', serif;
 }
 
 li {
   float: left;
+  display: inline-block;
   lis-style-type: none;
   font-size: 22px;
   font-family: 'Georgia', serif;
