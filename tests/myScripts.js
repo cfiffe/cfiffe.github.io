@@ -1,4 +1,4 @@
-
+/*
 document.write("hello world");
 
 document.write("Using Math.sqrt <br/>")
@@ -16,7 +16,7 @@ while(beginning > 0)
    {
     document.write(" Current Count: " + beginning + "<br />")
     beginning = Math.random () * 11;
-     beginning--;
+     beginning--; */
      
      
  // new input loop 1-24-20
